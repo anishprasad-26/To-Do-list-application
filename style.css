@@ -4,17 +4,17 @@
     box-sizing: border-box;
 }
 body{
-    background-color: hsl(0, 0%, 5%);
+    background-color: #E3F2FD;
     display: flex;
     height: 100vh;
     justify-content: center;
     align-items: center;
 }
 .container{
-    background-color: hsl(0, 0%, 10%);
-    color: white;
+    background-color: #fff;
+    color: black;
     border-radius: 5%;
-    padding: 10px;
+    padding: 15px;
     display: flex  ;
     gap: 10px;
     flex-direction: column;
@@ -24,7 +24,7 @@ body{
     box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4);
 }
 h2{
-    color: #fff;
+    color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 3rem;
     margin-bottom: 10px;
